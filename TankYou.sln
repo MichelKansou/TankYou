@@ -1,7 +1,7 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{AED1F8C9-7292-57BD-2AF1-50BEF704756F}") = "TankYou", "Assembly-CSharp.csproj", "{2172DBB6-3B57-7FA0-0C12-A96BA0796D81}"
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TankYou.CSharp", "TankYou.CSharp.csproj", "{8ADEE8D8-3055-26B0-5D37-27E376FB9850}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,15 +9,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2172DBB6-3B57-7FA0-0C12-A96BA0796D81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2172DBB6-3B57-7FA0-0C12-A96BA0796D81}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2172DBB6-3B57-7FA0-0C12-A96BA0796D81}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2172DBB6-3B57-7FA0-0C12-A96BA0796D81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ADEE8D8-3055-26B0-5D37-27E376FB9850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ADEE8D8-3055-26B0-5D37-27E376FB9850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ADEE8D8-3055-26B0-5D37-27E376FB9850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ADEE8D8-3055-26B0-5D37-27E376FB9850}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
